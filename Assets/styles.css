@@ -126,7 +126,6 @@ p.regular {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 24px;
   padding-top: 32px;
   padding-bottom: 32px;
 }
@@ -168,6 +167,7 @@ p.regular {
 
 .image-container {
   width: 80%;
+  margin: 16px 0;
 }
 
 #black {
