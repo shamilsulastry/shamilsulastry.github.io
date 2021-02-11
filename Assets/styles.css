@@ -389,6 +389,11 @@ footer {
   .Content-2 {
     max-width: 650px;
   }
+  
+  .Introduction-Background {
+    background-color: #ededed;
+    width: 100%;
+  }
 
   #selected-work {
     padding-top: 72px;
